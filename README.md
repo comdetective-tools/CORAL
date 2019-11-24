@@ -1,0 +1,1 @@
+CORAL benchmarks that were used in M. Aditya Sasongko, Palwisha Akhtar, Milind Chabbi, Didem Unat, ComDetective: A Lightweight Communication Detection Tool for Threads, 2019 IEEE/ACM Supercomputing Conference.
