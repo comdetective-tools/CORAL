@@ -1,0 +1,10 @@
+custom_wp_size is 4
+bulletin board size is 127
+watchpoint size is 4
+watchpoint client configuration is retrieved and the id is WP_COMDETECTIVE
+bulletin board size is 127
+watchpoint size is 4
+custom_wp_size is 4
+bulletin board size is 127
+watchpoint size is 4
+watchpoint client configuration is retrieved and the id is WP_COMDETECTIVE

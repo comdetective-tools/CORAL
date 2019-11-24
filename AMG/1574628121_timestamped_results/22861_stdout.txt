@@ -1,0 +1,63 @@
+custom_wp_size is 4
+bulletin board size is 127
+watchpoint size is 4
+watchpoint client configuration is retrieved and the id is WP_COMDETECTIVE
+Running with these driver parameters:
+  solver ID    = 1
+
+  Laplacian_27pt:
+    (Nx, Ny, Nz) = (256, 256, 256)
+    (Px, Py, Pz) = (1, 1, 1)
+
+=============================================
+Generate Matrix:
+=============================================
+Spatial Operator:
+  wall clock time = 11.310000 seconds
+  wall MFLOPS     = 0.000000
+  cpu clock time  = 92.120548 seconds
+  cpu MFLOPS      = 0.000000
+
+  RHS vector has unit components
+  Initial guess is 0
+=============================================
+IJ Vector Setup:
+=============================================
+RHS and Initial Guess:
+  wall clock time = 0.300000 seconds
+  wall MFLOPS     = 0.000000
+  cpu clock time  = 1.375462 seconds
+  cpu MFLOPS      = 0.000000
+
+=============================================
+Problem 1: AMG Setup Time:
+=============================================
+PCG Setup:
+  wall clock time = 19.120000 seconds
+  wall MFLOPS     = 0.000000
+  cpu clock time  = 270.031261 seconds
+  cpu MFLOPS      = 0.000000
+
+
+FOM_Setup: nnz_AP / Setup Phase Time: 2.568201e+07
+
+=============================================
+Problem 1: AMG-PCG Solve Time:
+=============================================
+PCG Solve:
+  wall clock time = 40.290000 seconds
+  wall MFLOPS     = 0.000000
+  cpu clock time  = 721.524373 seconds
+  cpu MFLOPS      = 0.000000
+
+
+Iterations = 22
+Final Relative Residual Norm = 6.620249e-09
+
+
+FOM_Solve: nnz_AP * Iterations / Solve Phase Time: 2.681281e+08
+
+
+
+Figure of Merit (FOM_1): 2.075166e+08
+
