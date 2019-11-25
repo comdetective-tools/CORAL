@@ -1,0 +1,105 @@
+[23573, 0]: unw_init: cursor could NOT build an interval for initial pc = 0x7ffe28e76715
+[23573, 0]: -- begin new backtrace (innermost first) [PARTIAL] ----------
+[23573, 0]: NULL (0): ip = 0x7ffe28e76715 (0x7ffe28e76715), load module = (null) | lip 
+[23573, 0]: -- end backtrace ------------------------------------
+
+[23573, 0]: unw_init: cursor could NOT build an interval for initial pc = 0x7ffe28e76610
+[23573, 0]: -- begin new backtrace (innermost first) [PARTIAL] ----------
+[23573, 0]: NULL (0): ip = 0x7ffe28e76610 (0x7ffe28e76610), load module = (null) | lip 
+[23573, 0]: -- end backtrace ------------------------------------
+
+[23573, 0]: unw_init: cursor could NOT build an interval for initial pc = 0x7ffe28e7671c
+[23573, 0]: -- begin new backtrace (innermost first) [PARTIAL] ----------
+[23573, 0]: NULL (0): ip = 0x7ffe28e7671c (0x7ffe28e7671c), load module = (null) | lip 
+[23573, 0]: -- end backtrace ------------------------------------
+
+[23573, 0]: unw_init: cursor could NOT build an interval for initial pc = 0x7ffe28e76881
+[23573, 0]: -- begin new backtrace (innermost first) [PARTIAL] ----------
+[23573, 0]: NULL (0): ip = 0x7ffe28e76881 (0x7ffe28e76881), load module = (null) | lip 
+[23573, 0]: -- end backtrace ------------------------------------
+
+[23573, 0]: -- begin new backtrace (innermost first) [PARTIAL] ----------
+[23573, 0]: NULL (0): ip = 0x7f98ec944a41 (0xaa41), load module = /home/msasongko17/project/feather-project/openmpi_bin/lib/pmix/mca_ptl_tcp.so | lip 
+[23573, 0]: NULL (0): ip = 0x7f98ec949ac6 (0xfac6), load module = /home/msasongko17/project/feather-project/openmpi_bin/lib/pmix/mca_ptl_tcp.so | lip 
+[23573, 0]: NULL (0): ip = 0x7f98ec951923 (0x17923), load module = /home/msasongko17/project/feather-project/openmpi_bin/lib/pmix/mca_ptl_tcp.so | lip 
+[23573, 0]: NULL (0): ip = 0xa20000a203a (0xa20000a203a), load module = (null) | lip 
+[23573, 0]: -- end backtrace ------------------------------------
+
+[23573, 0]: -- begin new backtrace (innermost first) [PARTIAL] ----------
+[23573, 0]: NULL (0): ip = 0x7f98ec944b42 (0xab42), load module = /home/msasongko17/project/feather-project/openmpi_bin/lib/pmix/mca_ptl_tcp.so | lip 
+[23573, 0]: NULL (0): ip = 0x7f98ec949ac6 (0xfac6), load module = /home/msasongko17/project/feather-project/openmpi_bin/lib/pmix/mca_ptl_tcp.so | lip 
+[23573, 0]: NULL (0): ip = 0x7f98ec951923 (0x17923), load module = /home/msasongko17/project/feather-project/openmpi_bin/lib/pmix/mca_ptl_tcp.so | lip 
+[23573, 0]: NULL (0): ip = 0xa20000a203a (0xa20000a203a), load module = (null) | lip 
+[23573, 0]: -- end backtrace ------------------------------------
+
+[23573, 0]: -- begin new backtrace (innermost first) [PARTIAL] ----------
+[23573, 0]: NULL (0): ip = 0x7f98ec9449f0 (0xa9f0), load module = /home/msasongko17/project/feather-project/openmpi_bin/lib/pmix/mca_ptl_tcp.so | lip 
+[23573, 0]: NULL (0): ip = 0x7f98ec949ac6 (0xfac6), load module = /home/msasongko17/project/feather-project/openmpi_bin/lib/pmix/mca_ptl_tcp.so | lip 
+[23573, 0]: NULL (0): ip = 0x7f98ec951923 (0x17923), load module = /home/msasongko17/project/feather-project/openmpi_bin/lib/pmix/mca_ptl_tcp.so | lip 
+[23573, 0]: NULL (0): ip = 0x7ffe28dfb050 (0x7ffe28dfb050), load module = (null) | lip 
+[23573, 0]: -- end backtrace ------------------------------------
+
+[23573, 0]: -- begin new backtrace (innermost first) [PARTIAL] ----------
+[23573, 0]: NULL (0): ip = 0x7f98ec94458b (0xa58b), load module = /home/msasongko17/project/feather-project/openmpi_bin/lib/pmix/mca_ptl_tcp.so | lip 
+[23573, 0]: NULL (0): ip = 0x7f98ec944b1f (0xab1f), load module = /home/msasongko17/project/feather-project/openmpi_bin/lib/pmix/mca_ptl_tcp.so | lip 
+[23573, 0]: NULL (0): ip = 0x7f98ec949ac6 (0xfac6), load module = /home/msasongko17/project/feather-project/openmpi_bin/lib/pmix/mca_ptl_tcp.so | lip 
+[23573, 0]: NULL (0): ip = 0x7f98ec951923 (0x17923), load module = /home/msasongko17/project/feather-project/openmpi_bin/lib/pmix/mca_ptl_tcp.so | lip 
+[23573, 0]: NULL (0): ip = 0x7ffe28dfb050 (0x7ffe28dfb050), load module = (null) | lip 
+[23573, 0]: -- end backtrace ------------------------------------
+
+[23573, 0]: -- begin new backtrace (innermost first) [PARTIAL] ----------
+[23573, 0]: NULL (0): ip = 0x7f98ec943fd0 (0x9fd0), load module = /home/msasongko17/project/feather-project/openmpi_bin/lib/pmix/mca_ptl_tcp.so | lip 
+[23573, 0]: NULL (0): ip = 0x7f98ec944b1f (0xab1f), load module = /home/msasongko17/project/feather-project/openmpi_bin/lib/pmix/mca_ptl_tcp.so | lip 
+[23573, 0]: NULL (0): ip = 0x7f98ec949ac6 (0xfac6), load module = /home/msasongko17/project/feather-project/openmpi_bin/lib/pmix/mca_ptl_tcp.so | lip 
+[23573, 0]: NULL (0): ip = 0x7f98ec951923 (0x17923), load module = /home/msasongko17/project/feather-project/openmpi_bin/lib/pmix/mca_ptl_tcp.so | lip 
+[23573, 0]: NULL (0): ip = 0x7ffe28dfb050 (0x7ffe28dfb050), load module = (null) | lip 
+[23573, 0]: -- end backtrace ------------------------------------
+
+[23573, 0]: -- begin new backtrace (innermost first) [PARTIAL] ----------
+[23573, 0]: NULL (0): ip = 0x7f98ec943e85 (0x9e85), load module = /home/msasongko17/project/feather-project/openmpi_bin/lib/pmix/mca_ptl_tcp.so | lip 
+[23573, 0]: NULL (0): ip = 0x7f98ec944b1f (0xab1f), load module = /home/msasongko17/project/feather-project/openmpi_bin/lib/pmix/mca_ptl_tcp.so | lip 
+[23573, 0]: NULL (0): ip = 0x7f98ec949ac6 (0xfac6), load module = /home/msasongko17/project/feather-project/openmpi_bin/lib/pmix/mca_ptl_tcp.so | lip 
+[23573, 0]: NULL (0): ip = 0x7f98ec951923 (0x17923), load module = /home/msasongko17/project/feather-project/openmpi_bin/lib/pmix/mca_ptl_tcp.so | lip 
+[23573, 0]: NULL (0): ip = 0x30 (0x30), load module = (null) | lip 
+[23573, 0]: -- end backtrace ------------------------------------
+
+[23573, 0]: -- begin new backtrace (innermost first) [PARTIAL] ----------
+[23573, 0]: NULL (0): ip = 0x7f98ec94b995 (0x11995), load module = /home/msasongko17/project/feather-project/openmpi_bin/lib/pmix/mca_ptl_tcp.so | lip 
+[23573, 0]: NULL (0): ip = 0x7f98ec943fe1 (0x9fe1), load module = /home/msasongko17/project/feather-project/openmpi_bin/lib/pmix/mca_ptl_tcp.so | lip 
+[23573, 0]: NULL (0): ip = 0x7f98ec944b1f (0xab1f), load module = /home/msasongko17/project/feather-project/openmpi_bin/lib/pmix/mca_ptl_tcp.so | lip 
+[23573, 0]: NULL (0): ip = 0x7f98ec949ac6 (0xfac6), load module = /home/msasongko17/project/feather-project/openmpi_bin/lib/pmix/mca_ptl_tcp.so | lip 
+[23573, 0]: NULL (0): ip = 0x7f98ec951923 (0x17923), load module = /home/msasongko17/project/feather-project/openmpi_bin/lib/pmix/mca_ptl_tcp.so | lip 
+[23573, 0]: NULL (0): ip = 0x30 (0x30), load module = (null) | lip 
+[23573, 0]: -- end backtrace ------------------------------------
+
+[23573, 0]: -- begin new backtrace (innermost first) [PARTIAL] ----------
+[23573, 0]: NULL (0): ip = 0x7f98ec949b5a (0xfb5a), load module = /home/msasongko17/project/feather-project/openmpi_bin/lib/pmix/mca_ptl_tcp.so | lip 
+[23573, 0]: NULL (0): ip = 0x7f98ec951923 (0x17923), load module = /home/msasongko17/project/feather-project/openmpi_bin/lib/pmix/mca_ptl_tcp.so | lip 
+[23573, 0]: NULL (0): ip = 0x30 (0x30), load module = (null) | lip 
+[23573, 0]: -- end backtrace ------------------------------------
+
+[23573, 0]: -- begin new backtrace (innermost first) [PARTIAL] ----------
+[23573, 0]: NULL (0): ip = 0x7f98ec94460d (0xa60d), load module = /home/msasongko17/project/feather-project/openmpi_bin/lib/pmix/mca_ptl_tcp.so | lip 
+[23573, 0]: NULL (0): ip = 0x7f98ec944b1f (0xab1f), load module = /home/msasongko17/project/feather-project/openmpi_bin/lib/pmix/mca_ptl_tcp.so | lip 
+[23573, 0]: NULL (0): ip = 0x7f98ec949ac6 (0xfac6), load module = /home/msasongko17/project/feather-project/openmpi_bin/lib/pmix/mca_ptl_tcp.so | lip 
+[23573, 0]: NULL (0): ip = 0x7f98ec951923 (0x17923), load module = /home/msasongko17/project/feather-project/openmpi_bin/lib/pmix/mca_ptl_tcp.so | lip 
+[23573, 0]: NULL (0): ip = 0x0 (0x0), load module = (null) | lip 
+[23573, 0]: -- end backtrace ------------------------------------
+
+[23573, 0]: -- begin new backtrace (innermost first) [PARTIAL] ----------
+[23573, 0]: NULL (0): ip = 0x7f98ec943f4a (0x9f4a), load module = /home/msasongko17/project/feather-project/openmpi_bin/lib/pmix/mca_ptl_tcp.so | lip 
+[23573, 0]: NULL (0): ip = 0x7f98ec944b1f (0xab1f), load module = /home/msasongko17/project/feather-project/openmpi_bin/lib/pmix/mca_ptl_tcp.so | lip 
+[23573, 0]: NULL (0): ip = 0x7f98ec949ac6 (0xfac6), load module = /home/msasongko17/project/feather-project/openmpi_bin/lib/pmix/mca_ptl_tcp.so | lip 
+[23573, 0]: NULL (0): ip = 0x7f98ec951923 (0x17923), load module = /home/msasongko17/project/feather-project/openmpi_bin/lib/pmix/mca_ptl_tcp.so | lip 
+[23573, 0]: NULL (0): ip = 0x0 (0x0), load module = (null) | lip 
+[23573, 0]: -- end backtrace ------------------------------------
+
+MEMORY: segment size: 4.0 meg, num segments: 35, total allocation: 140.0 meg, reclaims: 0
+MEMORY: total freeable: 0.0 meg, total non-freeable: 21.7 meg, malloc failures: 0
+WATCHPOINT ANOMALIES: samples:20691476.00, SM_imprecise:878498.00, WP_Set:19812853.00, WP_triggered:10.00, WP_SampleTriggering:0.00, WP_ImpreciseIP:0.00, WP_InsaneIP:0.00, WP_Off8Addr:0.00, WP_ImpreciseAddr:0.00, WP_Dropped:0.00
+WATCHPOINT STATS: writtenBytes:0, usedBytes:0, deadBytes:0, newBytes:0, oldBytes:0, oldAppxBytes:0, loadedBytes:0, accessedIns:9176796000000, falseWWIns:4, falseRWIns:0, falseWRIns:0, trueWWIns:3, trueRWIns:0, trueWRIns:0, RSS:21458616, reuse:0, latency:0
+COMDETECTIVE STATS: fs_volume:4000000.00, fs_core_volume:4000000.00, ts_volume:3000000.00, ts_core_volume:3000000.00, as_volume:7000000.00, as_core_volume:7000000.00, cache_line_transfer:7000000.00, cache_line_transfer_millions:7.00, cache_line_transfer_gbytes:0.42
+SAMPLE ANOMALIES: blocks: 128 (async: 115, dlopen: 13), errors: 14 (segv: 0, soft: 14)
+SUMMARY: samples: 20691476 (recorded: 20691348, blocked: 128, errant: 14, trolled: 0, yielded: 0),
+         frames: 78625452 (trolled: 0)
+         intervals: 2045 (suspicious: 0)

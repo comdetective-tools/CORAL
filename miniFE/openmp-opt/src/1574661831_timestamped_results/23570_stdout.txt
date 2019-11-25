@@ -1,0 +1,28 @@
+custom_wp_size is 4
+bulletin board size is 127
+watchpoint size is 4
+watchpoint client configuration is retrieved and the id is WP_COMDETECTIVE
+MiniFE Mini-App, OpenMP Peer Implementation
+Creating OpenMP Thread Pool...
+Counted: 32 threads.
+Running on 1 ranks, threads/ranks=32
+Running MiniFE Mini-App...
+      creating/filling mesh...1.1139s, total time: 1.1139
+generating matrix structure...58.9176s, total time: 60.0315
+         assembling FE data...22.0306s, total time: 82.062
+      imposing Dirichlet BC...6.09644s, total time: 88.1585
+      imposing Dirichlet BC...2.16944s, total time: 90.3279
+making matrix indices local...1.69277e-05s, total time: 90.3279
+Starting CG solver ... 
+Initial Residual = 385.001
+Iteration = 20   Residual = 0.0611116
+Iteration = 40   Residual = 0.0290203
+Iteration = 60   Residual = 0.0183647
+Iteration = 80   Residual = 0.0130633
+Iteration = 100   Residual = 0.00989918
+Iteration = 120   Residual = 0.00779988
+Iteration = 140   Residual = 0.00630596
+Iteration = 160   Residual = 0.00518793
+Iteration = 180   Residual = 0.00431853
+Iteration = 200   Residual = 0.00362172
+Final Resid Norm: 0.00362172
