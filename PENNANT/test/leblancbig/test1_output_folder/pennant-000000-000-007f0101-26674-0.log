@@ -1,0 +1,9 @@
+[26674, N]: SYSTEM_SERVER: warning: memory usage: 48 Meg
+MEMORY: segment size: 4.0 meg, num segments: 33, total allocation: 132.0 meg, reclaims: 0
+MEMORY: total freeable: 0.0 meg, total non-freeable: 4.2 meg, malloc failures: 0
+WATCHPOINT ANOMALIES: samples:2083.00, SM_imprecise:9.00, WP_Set:1411.00, WP_triggered:0.00, WP_SampleTriggering:0.00, WP_ImpreciseIP:0.00, WP_InsaneIP:0.00, WP_Off8Addr:0.00, WP_ImpreciseAddr:0.00, WP_Dropped:0.00
+WATCHPOINT STATS: writtenBytes:0, usedBytes:0, deadBytes:0, newBytes:0, oldBytes:0, oldAppxBytes:0, loadedBytes:0, accessedIns:534500000, falseWWIns:0, falseRWIns:0, falseWRIns:0, trueWWIns:0, trueRWIns:0, trueWRIns:0, RSS:240308, reuse:0, latency:0
+SAMPLE ANOMALIES: blocks: 1 (async: 1, dlopen: 0), errors: 0 (segv: 0, soft: 0)
+SUMMARY: samples: 2083 (recorded: 2082, blocked: 1, errant: 0, trolled: 0, yielded: 0),
+         frames: 12337 (trolled: 0)
+         intervals: 1265 (suspicious: 0)

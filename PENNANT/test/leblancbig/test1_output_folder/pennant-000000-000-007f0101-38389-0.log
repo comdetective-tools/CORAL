@@ -1,0 +1,67 @@
+[38389, N]: SYSTEM_SERVER: warning: memory usage: 49 Meg
+[38389, 0]: -- begin new backtrace (innermost first) [PARTIAL] ----------
+[38389, 0]: NULL (0): ip = 0x7f2284175f58 (0x1cf58), load module = /usr/lib/openmpi/lib/openmpi/mca_state_hnp.so | lip 
+[38389, 0]: NULL (0): ip = 0x7f228416a9c4 (0x119c4), load module = /usr/lib/openmpi/lib/openmpi/mca_state_hnp.so | lip 
+[38389, 0]: NULL (0): ip = 0x7f2284162fe1 (0x9fe1), load module = /usr/lib/openmpi/lib/openmpi/mca_state_hnp.so | lip 
+[38389, 0]: NULL (0): ip = 0x7f2284163b1f (0xab1f), load module = /usr/lib/openmpi/lib/openmpi/mca_state_hnp.so | lip 
+[38389, 0]: NULL (0): ip = 0x7f2284168ac6 (0xfac6), load module = /usr/lib/openmpi/lib/openmpi/mca_state_hnp.so | lip 
+[38389, 0]: NULL (0): ip = 0x7f2284170923 (0x17923), load module = /usr/lib/openmpi/lib/openmpi/mca_state_hnp.so | lip 
+[38389, 0]: -- end backtrace ------------------------------------
+
+[38389, 11]: 
+ WP trigger did not match any known active WP
+
+[38389, 11]: 
+ WP trigger did not match any known active WP
+
+[38389, 0]: 
+ WP trigger did not match any known active WP
+
+[38389, 4]: 
+ WP trigger did not match any known active WP
+
+[38389, 28]: 
+ WP trigger did not match any known active WP
+
+[38389, 28]: 
+ WP trigger did not match any known active WP
+
+[38389, 28]: 
+ WP trigger did not match any known active WP
+
+[38389, 28]: 
+ WP trigger did not match any known active WP
+
+[38389, 28]: 
+ WP trigger did not match any known active WP
+
+[38389, 28]: 
+ WP trigger did not match any known active WP
+
+[38389, 28]: 
+ WP trigger did not match any known active WP
+
+[38389, 7]: 
+ WP trigger did not match any known active WP
+
+[38389, 7]: 
+ WP trigger did not match any known active WP
+
+[38389, 0]: 
+ WP trigger did not match any known active WP
+
+[38389, 0]: 
+ WP trigger did not match any known active WP
+
+[38389, 0]: 
+ WP trigger did not match any known active WP
+
+[38389, 0]: 
+ WP trigger did not match any known active WP
+
+[38389, 0]: 
+ WP trigger did not match any known active WP
+
+[38389, 29]: 
+ WP trigger did not match any known active WP
+

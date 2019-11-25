@@ -1,0 +1,54 @@
+[11291, N]: SYSTEM_SERVER: warning: memory usage: 49 Meg
+[11291, 2]: 
+ WP trigger did not match any known active WP
+
+[11291, 5]: 
+ WP trigger did not match any known active WP
+
+[11291, 2]: 
+ WP trigger did not match any known active WP
+
+[11291, 15]: 
+ WP trigger did not match any known active WP
+
+[11291, 6]: 
+ WP trigger did not match any known active WP
+
+[11291, 25]: 
+ WP trigger did not match any known active WP
+
+[11291, 1]: 
+ WP trigger did not match any known active WP
+
+[11291, 17]: 
+ WP trigger did not match any known active WP
+
+[11291, 0]: 
+ WP trigger did not match any known active WP
+
+[11291, 3]: 
+ WP trigger did not match any known active WP
+
+[11291, 0]: 
+ WP trigger did not match any known active WP
+
+[11291, 26]: 
+ WP trigger did not match any known active WP
+
+[11291, 2]: 
+ WP trigger did not match any known active WP
+
+[11291, 6]: 
+ WP trigger did not match any known active WP
+
+[11291, 5]: 
+ WP trigger did not match any known active WP
+
+MEMORY: segment size: 4.0 meg, num segments: 33, total allocation: 132.0 meg, reclaims: 0
+MEMORY: total freeable: 0.0 meg, total non-freeable: 9.4 meg, malloc failures: 0
+WATCHPOINT ANOMALIES: samples:2430643.00, SM_imprecise:18405.00, WP_Set:2411954.00, WP_triggered:298.00, WP_SampleTriggering:0.00, WP_ImpreciseIP:0.00, WP_InsaneIP:0.00, WP_Off8Addr:0.00, WP_ImpreciseAddr:338.00, WP_Dropped:0.00
+WATCHPOINT STATS: writtenBytes:0, usedBytes:0, deadBytes:0, newBytes:0, oldBytes:0, oldAppxBytes:0, loadedBytes:0, accessedIns:1202504000000, falseWWIns:0, falseRWIns:0, falseWRIns:283, trueWWIns:0, trueRWIns:0, trueWRIns:0, RSS:245544, reuse:0, latency:0
+SAMPLE ANOMALIES: blocks: 1 (async: 1, dlopen: 0), errors: 0 (segv: 0, soft: 0)
+SUMMARY: samples: 2430643 (recorded: 2430642, blocked: 1, errant: 0, trolled: 0, yielded: 0),
+         frames: 10850214 (trolled: 0)
+         intervals: 1162 (suspicious: 0)
